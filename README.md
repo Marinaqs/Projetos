@@ -1,4 +1,4 @@
 
-# Bem vindo ao curso github
+# Bem vindo ao meu Github
 
-Descricao do meu README
+Sempre inovando e criando projetos
